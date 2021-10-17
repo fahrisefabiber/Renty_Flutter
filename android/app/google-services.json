@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217872699029",
+    "project_id": "renty-31e93",
+    "storage_bucket": "renty-31e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217872699029:android:b5f51e10ecf62fc944959c",
+        "android_client_info": {
+          "package_name": "com.example.renty_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217872699029-jhh4sn7ig3efj5uho7hjrt98430hajqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm18TsGpXn0Tql1eqHkt5JBTHxmjW6Su8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217872699029-jhh4sn7ig3efj5uho7hjrt98430hajqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
